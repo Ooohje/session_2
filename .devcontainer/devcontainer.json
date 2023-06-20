@@ -6,6 +6,7 @@
         "context": ".",
         "args": {
           "VARIANT": "7.0"
+      }
     },
     
     "forwardPorts": [
@@ -76,4 +77,4 @@
   
     // DevContainer 사용자 계정
     "remoteUser": "vscode"
-  }
+}
